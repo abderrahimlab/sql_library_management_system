@@ -2,7 +2,7 @@
 <img width="1024" height="1024" alt="img" src="https://github.com/user-attachments/assets/f478c3df-6eca-4dc6-9660-30808de802fe" />
 
 
-# sql_library_management_system_project02
+# sql_library_management_system
 
 ## **1- Project Overview**
 
