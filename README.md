@@ -1,7 +1,4 @@
-
-<img width="1024" height="1024" alt="img" src="https://github.com/user-attachments/assets/f478c3df-6eca-4dc6-9660-30808de802fe" />
-
-
+<img width="2760" height="1504" alt="library_management_system" src="https://github.com/user-attachments/assets/27b576eb-31eb-4de7-90e8-d881f6e4968f" />
 # sql_library_management_system
 
 ## **1- Project Overview**
